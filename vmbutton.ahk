@@ -1,4 +1,4 @@
-;Wait for the VoicMeeter window to appear before anything
+;Wait for the VoiceMeeter window to appear before anything
 WinWait, ahk_exe voicemeeterpro.exe
 {
 ; variables

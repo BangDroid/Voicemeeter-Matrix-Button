@@ -1,10 +1,10 @@
 # Voicemeeter-Matrix-Button
 An AutoHotKey script that adds a button to VoiceMeeter Banana to open the optional VB-Audio Voicemeeter 8x8 gain matrix dialogue.
 
-![VoiceMeeter New Button](https://raw.githubusercontent.com/BangDroid/Voicemeeter-Matrix-Button/master/vmrButtonPreview.png "VoiceMeeter New Button")
+![VoiceMeeter New Button](https://i.imgur.com/kqr0LCs.png "VoiceMeeter New Button")
 
 ### VB-Audio 8x8 Matrix window
-![Matrix Window](https://raw.githubusercontent.com/BangDroid/Voicemeeter-Matrix-Button/master/vmr_matrix.png "Matrix Window")
+![Matrix Window](https://i.imgur.com/0Dz9Hr1.png "Matrix Window")
 
 # Required!
 

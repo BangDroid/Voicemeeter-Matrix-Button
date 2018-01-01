@@ -11,7 +11,7 @@ Gui, 1: Color, white, Default
 Gui, 1: +LastFound +AlwaysOnTop 
 WinSet, TransColor, white 255 
 Gui 1: -Caption +ToolWindow ;removes the title and border from the gui
-gui, 1: add, Picture,gButtonMatrix,%path%%img%
+Gui, 1: add, Picture,gButtonMatrix,%path%%img%
 Set_Parent_by_title("VoiceMeeter", 1) ; makes the gui button a child of VoiceMeeter
 Gui, 1: Show, x960 y255 ;positions the button releative to the Voicemeeter window
 Return
